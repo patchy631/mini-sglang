@@ -17,7 +17,7 @@ A compact codebase of **~5,000 lines of Python**, it serves as both a capable in
 ## ✨ Key Features
 
 - **High Performance**: Achieves state-of-the-art throughput and latency with advanced optimizations.
-- **Lightweight & Readable**: A clean, modular, and fully type-annotated codebase that is easy to understand and modify.
+- **Lightweight & Readable**: A clean, modular, and fully type-annotated codebase.
 - **Advanced Optimizations**:
   - **Radix Cache**: Reuses KV cache for shared prefixes across requests.
   - **Chunked Prefill**: Reduces peak memory usage for long-context serving.
