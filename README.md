@@ -1,10 +1,12 @@
-<p align="center">
-<img width="400" src="/assets/logo.png">
-</p>
-
-# Mini-SGLang
-
-A **lightweight yet high-performance** inference framework for Large Language Models.
+<div align="center">
+  <img width="400" src="/assets/logo.png">
+  
+  <h1>Mini-SGLang</h1>
+  
+  <p>
+    A <strong>lightweight yet high-performance</strong> inference framework for Large Language Models.
+  </p>
+</div>
 
 ---
 
