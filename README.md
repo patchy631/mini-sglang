@@ -12,8 +12,6 @@
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
-A compact codebase of **~5,000 lines of Python**, it serves as both a capable inference engine and a transparent reference for researchers and developers.
-
 ## ✨ Key Features
 
 - **High Performance**: Achieves state-of-the-art throughput and latency with advanced optimizations.
