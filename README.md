@@ -21,7 +21,6 @@ A compact codebase of **~5,000 lines of Python**, it serves as both a capable in
 - **Advanced Optimizations**:
   - **Radix Cache**: Reuses KV cache for shared prefixes across requests.
   - **Chunked Prefill**: Reduces peak memory usage for long-context serving.
-  - **Overlap Scheduling**: Hides CPU scheduling overhead with GPU computation.
   - **Tensor Parallelism**: Scales inference across multiple GPUs.
   - **Optimized Kernels**: Integrates **FlashAttention** and **FlashInfer** for maximum efficiency.
   - ...
